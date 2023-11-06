@@ -2,3 +2,4 @@
 
 # Salvando Alterações no Git
 
+* Comando git pull
